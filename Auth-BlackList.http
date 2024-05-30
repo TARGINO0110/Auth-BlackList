@@ -1,0 +1,6 @@
+@Auth_BlackList_HostAddress = http://localhost:5228
+
+GET {{Auth_BlackList_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
