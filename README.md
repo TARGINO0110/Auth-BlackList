@@ -38,4 +38,3 @@ volumes:
 ```
 
 <h3>Após execultar o comando do compose verifique a url http://localhost:8001 </h3>
-![Screenshot 2024-05-30 150113](https://github.com/TARGINO0110/Auth-BlackList/assets/40901408/7925a310-a40d-4d63-92ca-d6ff09e67238)
